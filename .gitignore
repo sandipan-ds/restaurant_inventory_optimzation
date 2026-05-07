@@ -1,4 +1,5 @@
 data/
 .venv/
 database_upload/
-notebook/.emv
+notebook/.env
+LightGBM/
