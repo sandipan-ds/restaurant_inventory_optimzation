@@ -1,0 +1,7 @@
+{
+    "alpha": 0.01,
+    "best_cv_rmse": 237.5696,
+    "test_rmse": 203.1922,
+    "test_mae": 93.8004,
+    "test_r2": 0.6905
+}

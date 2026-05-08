@@ -1,0 +1,11 @@
+{
+    "colsample_bytree": 0.8,
+    "learning_rate": 0.1,
+    "max_depth": 8,
+    "n_estimators": 200,
+    "subsample": 0.8,
+    "best_cv_rmse": 170.5851,
+    "test_rmse": 155.1256,
+    "test_mae": 72.27,
+    "test_r2": 0.8196
+}

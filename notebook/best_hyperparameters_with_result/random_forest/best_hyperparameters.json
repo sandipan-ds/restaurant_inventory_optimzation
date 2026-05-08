@@ -1,0 +1,10 @@
+{
+    "max_depth": 20,
+    "max_features": "sqrt",
+    "min_samples_leaf": 10,
+    "n_estimators": 200,
+    "best_cv_rmse": 178.8392,
+    "test_rmse": 161.9673,
+    "test_mae": 70.8648,
+    "test_r2": 0.8033
+}
