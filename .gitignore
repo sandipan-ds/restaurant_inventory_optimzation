@@ -1,5 +1,7 @@
+# Environment / secret files
+.env
+**/.env
+
 data/
 .venv/
-database_upload/
-notebook/.env
 LightGBM/
